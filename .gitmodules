@@ -1,0 +1,6 @@
+[submodule "aaaj-frontend"]
+	path = aaaj-frontend
+	url = https://github.com/CuzImAram/aaaj-frontend
+[submodule "aaaj-backend"]
+	path = aaaj-backend
+	url = https://github.com/CuzImAram/aaaj-backend
