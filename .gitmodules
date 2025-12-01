@@ -3,4 +3,4 @@
 	url = https://github.com/CuzImAram/aaaj-frontend
 [submodule "aaaj-backend"]
 	path = aaaj-backend
-	url = https://github.com/CuzImAram/aaaj-backend
+	url = https://github.com/CuzImAram/aaaj-backend.git
