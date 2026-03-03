@@ -1,6 +1,8 @@
 [submodule "aaaj-frontend"]
 	path = aaaj-frontend
 	url = https://github.com/CuzImAram/aaaj-frontend
+	branch = main
 [submodule "aaaj-backend"]
 	path = aaaj-backend
 	url = https://github.com/CuzImAram/aaaj-backend.git
+	branch = main
